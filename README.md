@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkashSingh20
+- 👋 Hi, I’m @AakashSingh20
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on Open source projects
